@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://pre-prod-survey.advisor.sky.com/situs-slot88-dan-slot-gacor-terpercaya/sitemap.xml
